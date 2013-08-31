@@ -1,14 +1,14 @@
 ZF2 module for amazon cloud Search 
 ==============
 
-How we can use this 
+Installation using composer
 --------------
 
-- add a  'zf2/amazoncloudsearch' : 'dev'  in composer.json file 
+- add a  'zf2/ZF2Amazoncloudsearch' : 'dev'  in composer.json file 
 - now excute composer install
 - add Module in you application.config.php file
 
-* How you can use this in your project *
+** How you can use this in your project **
 
 	
 	$cloudobj = $this->getServiceLocator()->get('cloudSearch');
