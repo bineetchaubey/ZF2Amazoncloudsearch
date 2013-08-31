@@ -1,5 +1,5 @@
 <?php
-namespace Amazoncloudsearch;
+namespace ZF2Amazoncloudsearch;
 
 class Module
 {

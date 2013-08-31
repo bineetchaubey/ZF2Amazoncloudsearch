@@ -1,5 +1,5 @@
 {
-    "name": "zf2/amazoncloudsearch",
+    "name": "zf2/ZF2Amazoncloudsearch",
     "description": "This is amazon cloud search module for zend 2",
     "license": "MTS",
     "keywords": [
