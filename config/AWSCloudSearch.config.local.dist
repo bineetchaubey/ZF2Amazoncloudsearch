@@ -1,0 +1,9 @@
+<?php
+//  copy this file in config/autoload/AWSCloudsearch.config.local.php
+return array(
+     'Cloudsearchdata' => array(
+        'search_domain' => '', // your search domain
+        'domain_id' => '', // doemain_id 
+        'search_region' => '', //  region name 
+        ), 
+);
