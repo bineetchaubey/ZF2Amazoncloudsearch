@@ -18,7 +18,6 @@
     ],
     "minimum-stability": "dev",
     "require": {
-         "ext-intl": "*",
          "php": ">=5.3.3"
     }
 }
