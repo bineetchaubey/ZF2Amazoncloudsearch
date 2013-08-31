@@ -28,8 +28,7 @@ class Cloudsearch extends AbstractPlugin
         $this->document_endpoint = "http://doc-".$this->search_domain."-".$this->domain_id.".".$this->search_region."/".$this->calendar_method;
         $this->search_endpoint = "http://search-".$this->search_domain."-".$this->domain_id.".".$this->search_region."/".$this->calendar_method;
     }
-      // packeggist username bineetchaubey
-     // pass : star#1984*
+      
 
   /**
    * Public document API call
