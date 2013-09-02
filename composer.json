@@ -1,0 +1,31 @@
+{
+    "name": "zf2/zf2amazoncloudsearch",
+    "description": "This is amazon cloud search module for zend 2",
+    "license": "MTS",
+    "keywords": [
+        "Zend Framework",
+        "Amazon",
+        "cloudsearch",
+        "module",
+        "zf2",
+        "Zend Framework"
+    ],
+    "authors": [
+        {
+            "name": "Bineet Chaubey",
+            "email": "bineetchaubey@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+         "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-0": {
+            "ZF2Amazoncloudsearch": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
+    }
+}
